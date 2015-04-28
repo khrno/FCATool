@@ -1,0 +1,3 @@
+[submodule "csvReader/CSV"]
+	path = csvReader/CSV
+	url = https://github.com/khrno/CSV.git
